@@ -1,0 +1,37 @@
+Use Wamp or Xampp to create a local server in your PC!
+
+
+IMPORT DATABASE(WAMP or XAMPP): (Very Very Important!)
+-----------------------------------------------------
+> Import database 'ruetcafe.sql' from "Database" folder  at http://localhost/phpmyadmin
+> There is a pdf tutorial named "Tutorial How to Import database in phpmyadmin.pdf" in "Database" folder, to help
+  you importing the database.
+
+
+
+  
+For WAMP SERVER:
+----------------
+Just Copy and Paste the folder named "ruet_cafeteria_website"   in   "C:\wamp\www"   directory
+
+For XAMPP SERVER:
+-----------------
+Just Copy and Paste the folder named "ruet_cafeteria_website"   in   "C:\xampp\htdocs"   directory
+
+
+
+
+Then Type in your browser:   http://localhost/ruet_cafeteria_website/index.php
+
+
+
+If any kind of problem happens,Contact Me>
+-------------------------------------------
+
+Name       : Md. Nahiduzzaman Rose
+Roll       : 103034
+Department : CSE
+E-mail     : nahiduzzamanrose@gmail.com
+Phone      : +8801736675869
+
+
