@@ -1,0 +1,139 @@
+<!doctype html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <title>The Cafeteria Kitchen</title>
+	<link  rel="stylesheet" href="cafeteria.css"/>
+	<link rel="stylesheet"  href="form.css">
+	<script src="myForm.js"></script>
+  </head>
+  <body>
+  
+     
+ <img src ="images/cafeout2.jpg" alt="cafeteria picture" width=100% height=18%>
+  
+  
+  <div id="award">
+      <img src="images/award.gif"
+           alt="Roaster of the Year award" />
+    </div>
+	
+	<div id="awardd">
+      <img src="images/awardd.gif"
+           alt="Roaster of the Year award" />
+    </div>
+    
+	
+
+		<div id="menu">
+	   	   <a href="cafeteria.html">HOME</a>
+		  <a href="about.html"> ABOUT</a>
+		  <a href="contact.html"> CONTACT</a>
+	      SERVICES
+		</div>
+
+    <h1 align="center"><a id="form">Welcome to Cafeteria Kitchen</a></h1>
+    <h2 align="center">Fill out the form below and click "order now" to order</h2>
+
+    <form name="myForm" action="insert.php" onsubmit ="return validateForm()"method="post">
+      <table>
+
+        <tr>
+          <th>Ship to:</th>
+            <td>
+              <table>
+                <tr>
+                  <td>Name:</td>
+                  <td>
+                    <input type="text" name="name" id="name" value="" />
+                  </td>
+                </tr>
+				  <tr>
+                <tr>
+                  <td>Hallname:</td>
+                  <td>
+                    <input type="text" name="hallname" id="hallname" value="" />
+                  </td>
+                </tr>
+				
+				<tr>
+                  <td>Product_Id:</td>
+                  <td>
+                    <input type="text" name="productid" id="productid" value="" />
+                  </td>
+                </tr>
+				
+                <tr>
+                  <td>E-mail:</td>
+                  <td>
+                    <input type="text" name="Email" id="Email" value="" />
+                  </td>
+                </tr>
+				
+                <tr>
+                  <td>Room No:</td>
+                  <td>
+                    <input type="text" name="roomno" id="roomno" value="" />
+                  </td>
+                </tr>
+				
+				<tr>
+                  <td>Mobile:</td>
+                  <td>
+                    <input type="text" name="mobile" id="mobile" value="" />
+                  </td>
+                </tr>
+				
+              </table>
+            </td>
+	  </tr>
+
+                
+
+	  
+			<tr>
+			<th rowspan="2">sex2</th>
+			<td><input type="radio" name="sex2" value="Male"/>Male</td>
+			<tr>
+			<td><input type="radio" name="sex2" value="Female"/>Female</td></tr>
+			</tr>
+			<tr>
+			<th> Choose&nbspCar: </th>
+          <td>			
+			<select name="gender" id="gender">
+            <option value="">Select One</option>
+            <option value = "Bmw">BMW</option>
+            <option value = "Caterham">CATERHAM</option>
+			</td>
+    </select>
+	</tr>
+
+
+          <tr>
+            <th>Comments:</th>
+            <td>
+              <textarea name="comments" id="comments" rows="10" cols="48"></textarea>
+            </td>
+          </tr>
+
+          <tr>
+	    <th></th>
+            <td>
+              <input type="submit" value="Order Now" onclick="return display()"  />
+            </td>
+          </tr>
+        </table>
+      </form>
+	  
+	  
+	  
+	    <div id="footer">
+      &copy; 2013, RUET CAFETERIA
+      <br />
+      All trademarks and registered trademarks appearing on 
+      this site are the property of their respective owners.
+    </div>
+	  
+  </body>
+</html>
+
