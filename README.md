@@ -40,6 +40,6 @@ Need Service? Just Order, But Make sure you're logged in!
 Fill the form , Order , Pay via bKash
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995808/9c0a3b38-aa81-11e5-80d3-4e3667910c5d.jpg)](#features)
-[Notice: bkash logo and Flash video are property of bKash]
+[Notice: bkash logo and Flash video are properties of bKash Limited]
 
 
