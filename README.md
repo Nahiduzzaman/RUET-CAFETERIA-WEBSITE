@@ -29,5 +29,8 @@ Contact Page
 Need Service? Just Order, But Make sure you're logged in!
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995757/9836962e-aa80-11e5-8907-ff357e6eb3b7.jpg)](#features)
-
+Fill the form , Order , Pay via bKash
+[Notice: bkash logo and Flash video are property of bKash]
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11995808/9c0a3b38-aa81-11e5-80d3-4e3667910c5d.jpg)](#features)
 
