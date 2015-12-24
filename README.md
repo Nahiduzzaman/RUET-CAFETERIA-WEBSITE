@@ -17,7 +17,14 @@ REGISTER
 Full Home Page
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995475/4ad82906-aa7b-11e5-9278-fb9b021b7e53.jpg)](#features)
+Coupon!Prize!Offer! Page, Something change in Color? Red!
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11995719/d6515bd4-aa7f-11e5-8799-cf5e46549868.jpg)](#features)
+
 About Page
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995608/beec4f0a-aa7d-11e5-9a1b-edf4d477ac24.jpg)](#features)
+Contact Page
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11995698/7c3c25b6-aa7f-11e5-9c08-bbe208f64b9f.jpg)](#features)
 
