@@ -10,7 +10,7 @@ Glimpse of Header and Main Menu
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995326/02c43166-aa79-11e5-875e-7530fe1a3aac.JPG)](#features)
 LOG IN
 =========
-[![cafe](https://cloud.githubusercontent.com/assets/12976221/11995529/83f4c392-aa7c-11e5-8bce-4aabd0708d01.JPG)](#features)
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11995675/ebb56c28-aa7e-11e5-83f1-ad65c989b0bd.jpg)](#features)
 REGISTER
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11995556/17cde832-aa7d-11e5-9e7e-ff6db5f171ca.jpg)](#features)
