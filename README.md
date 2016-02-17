@@ -3,10 +3,6 @@ Title: RUET CAFETERIA WEBSITE
 Description: FOOD FOR LIFE 
 Designer and Developer: Md. Nahiduzzaman Rose
 created:  On 5th Semester
-
-Check the link live:
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
 ---
 Glimpse of Header and Main Menu
 =========
