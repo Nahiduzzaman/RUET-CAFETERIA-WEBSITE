@@ -6,7 +6,7 @@ created:  On 5th Semester
 ---
 Check Live, Click below!
 =========
-Click [RUET CAFETERIA] (https://nahid007.5gbfree.com "RUET CAFETERIA's Homepage")
+Click [RUET CAFETERIA] (http://nahid007.5gbfree.com "RUET CAFETERIA's Homepage")
 =========
 
 Glimpse of Header and Main Menu
