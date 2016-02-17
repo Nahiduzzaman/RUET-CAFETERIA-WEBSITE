@@ -4,9 +4,9 @@ Description: FOOD FOR LIFE
 Designer and Developer: Md. Nahiduzzaman Rose
 created:  On 5th Semester
 ---
-Check Live!
+Check Live, Click below!
 =========
-[RUET CAFETERIA](https://nahid007.5gbfree.com "RUET CAFETERIA's Homepage")
+Click [RUET CAFETERIA](https://nahid007.5gbfree.com "RUET CAFETERIA's Homepage")
 =========
 
 Glimpse of Header and Main Menu
